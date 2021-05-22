@@ -47,8 +47,6 @@ footer {
     width: 30%;
   }
   .dice {
-    display: inline-block;
-    flex-direction: column;
-    align-items:center;
+    display: flex;
   } 
 }
