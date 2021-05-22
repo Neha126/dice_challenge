@@ -47,6 +47,7 @@ footer {
     width: 30%;
   }
   .dice {
-    display: flex;
+     text-align: center;
+  display: inline-block;
   } 
 }
