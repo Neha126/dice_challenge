@@ -44,6 +44,9 @@ footer {
     font-size: 3rem;
   }
   img{
-    width: 50%;
+    width: 30%;
   }
+  .dice {
+    display: flex;
+  } 
 }
